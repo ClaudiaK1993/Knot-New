@@ -14,3 +14,8 @@
     "tailwindcss-animate": "^1.0.7"
   }
 }
+"scripts": {
+
+  "build:dev": "vite build --mode development"
+
+}
